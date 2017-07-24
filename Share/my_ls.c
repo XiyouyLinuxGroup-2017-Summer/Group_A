@@ -275,7 +275,7 @@ void display_dir(int flag_param,char *path)
     //if(count>256)
       // my_err("too many files under this dir",__LINE__);
 
-    char (*filenames)[PATH_MAX]=(char(*)[PATH_MAX])malloc(sizeof(char)*count*(PATH_MAX+1));  
+    char (*filenames)[PATH_MAX+1]=(char(*)[PATH_MAX+1])malloc(sizeof(char)*count*(PATH_MAX+1));  
     int i,j,len=strlen(path);
     //获取该目录下所有的文件名
     dir=opendir(path);
