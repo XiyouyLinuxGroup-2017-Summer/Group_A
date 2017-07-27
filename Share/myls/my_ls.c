@@ -328,6 +328,7 @@ void display_dir(int flag_param,char *path)
         if(test[0]=='.')  continue;
         //如果目录文件或目录不存在，报错并退出程序
         if( lstat(path_temp,&buf1)== -1 ){
+            printf("path_temp = %s\n",path_temp);
             if(errno==13)
             {
                 printf("没有权限\n");
