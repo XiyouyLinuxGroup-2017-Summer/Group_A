@@ -30,5 +30,6 @@ void get_command(char *str)
     }
 
     str[i++] = '\n';
-    str[i++] = '\0'; 
+    str[i++] = '\0';
+
 }
