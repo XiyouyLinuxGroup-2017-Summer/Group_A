@@ -9,3 +9,6 @@ ls可以说是Linux每天最常用的指令之一，而ls又支持很多参数�
 基本演示：
 ![这里写图片描述](http://img.blog.csdn.net/20170731164257523?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2VpeGluXzM2ODg4NTc3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![这里写图片描述](http://img.blog.csdn.net/20170731164312238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2VpeGluXzM2ODg4NTc3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+@hg_yi:你他妈就给我截了两张图... 这个项目文档写出来有啥意思(╬￣皿￣)凸、 (ノ｀Д´)ノ
